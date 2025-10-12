@@ -13,3 +13,5 @@ Attention mechanism: To emphasise salient time regions relevant to blood pressur
 Output: Estimated SBP and DBP values.
 Results 
 Achieved MAE = 2.22 mmHg (SBP) and 1.5 mmHg (DBP) on patients with recording time > 8 minutes. Corresponding R² > 0.9 for long-duration recordings. Model performance degrades on recordings shorter than 8 minutes, showing MAE ≈ 15 mmHg (SBP) and 7 mmHg (DBP).
+
+Dataset link: https://archive.ics.uci.edu/static/public/340/cuff+less+blood+pressure+estimation.zip
